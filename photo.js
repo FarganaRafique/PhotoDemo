@@ -8,7 +8,7 @@ class Photo {
         let finalPrice;
 
         if((this.width == 8) && (this.height == 10)){
-            fianlPrice = 4;
+            finalPrice = 4;
         }else {
             if ((this.width == 10) && (this.height == 10)){
                 finalPrice = 6;
